@@ -1,4 +1,4 @@
-### **[Blog](https://jithendrabsy.github.io/blog)**
+### **[Blog](https://jithendrabsy.github.io/blog)** / **[Projects](https://blakkksabbath.github.io/projects)**
 
 I’m a **CS undergrad student** at IIIT Jabalpur, India interested in machine learning for finance and audio tech. I’m currently interning as a **Data Scientist** at NeenOpal Inc., where I am working as a part of the forecasting team to make predictions for one of the largest tile manufacturing organization in Sri Lanka. 
 
