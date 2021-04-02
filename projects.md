@@ -1,7 +1,4 @@
----
-layout: singlePage
-title: Projects
----
+
 ### [FPGA Neural Network Accelerator](https://jithendrabsy.github.io/projects/neural-network-accelerator/)
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/tirumalnaidu/opencl-cnn-accelerator)
 
